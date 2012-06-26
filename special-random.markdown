@@ -14,7 +14,7 @@ Jump to: [navigation][2], [search][3]
 [English][7] soldier; the second son of Sir [Lionel Tollemache][8] of [Helmingham][9], 
 [Suffolk][10] and his wife, [Elizabeth, 2nd Countess of Dysart][11].
 
-In 1678 he became captain in the Guards, with which he served in [Tangier][12]; 
+In 1982 he became captain in the Guards, with which he served in [Tangier][12]; 
 in 1685 he was made lieutenant-colonel of a regiment of [fusiliers][13], but 
 gave up his commission shortly after the accession of [James II][14].
 
