@@ -1,31 +1,88 @@
-Software Zero
+[ ![Software Zero][1]][2]
 
-The mission of Enlightened Structure Software Zero is to create a platform for swarm intelligence to collaborate on a project, while retaining the edits and contributions of every author throughout the history of the collaboration. This "branching" of creative works encourages a diversity of perspectives that can be interwoven in a creative network of any scale...
+## [Software Zero][2]
 
-Read More The Trust Exchange
+The mission of Enlightened Structure Software Zero is to create a platform 
+for swarm intelligence to collaborate on a project, while retaining the edits 
+and contributions of every author throughout the history of the collaboration. 
+This "branching" of creative works encourages a diversity of perspectives that 
+can be interwoven in a creative network of any scale...
 
-Superseding the Scarcity Economy ::: The Trust Exchange utilizes the network of trust relationships that already exist, making them visible, interlinked and actionable. Most of our decisions are based on collective opinions and discernment, particularly those of friends we trust. The Trust Exchange brings visibility to your friends' ratings of products, companies...
+[Read More][2]
 
-Read More The Core Network
+[ ![Trust Exchange][3]][4]
 
-Geometric System Interface ::: The Core Network is a social browser and visual interface based on the geometry and physics of space-time itself. It traces our interactions and relationships with information displayed using colors and geometric shapes, while organizing them by shared keywords, categories, and proximity references. Through this organization...
+## [The Trust Exchange][5]
 
-Read More Introduction
+Superseding the Scarcity Economy ::: The Trust Exchange utilizes the network 
+of trust relationships that already exist, making them visible, interlinked 
+and actionable. Most of our decisions are based on collective opinions and 
+discernment, particularly those of friends we trust. The Trust Exchange brings 
+visibility to your friends' ratings of products, companies...
 
-Enlightened Structure is a radically open toolkit for the collaboration singularity.
+[Read More][5]
 
-Read more Free IP
+[ ![The Core Network][6]][7]
 
-This is virally licensed Free IP. You are free to copy, share, modify, and remix this work, for free or for profit, on the condition that you attribute this URL as a source, and share any copies and remixes under the same Creative Commons license.
+## [The Core Network][7]
 
-Read more For Developers
+Geometric System Interface ::: The Core Network is a social browser and visual 
+interface based on the geometry and physics of space-time itself. It traces 
+our interactions and relationships with information displayed using colors 
+and geometric shapes, while organizing them by shared keywords, categories, 
+and proximity references. Through this organization...
 
-The Enlightened Structure technology stack is being implemented as a set of HTTP APIs.
+[Read More][7]
 
-Read more------------
+![][8]
 
-This page was forked with permission from <a href="http://enlightenedstructure.org/Home/" target="_blank">http://enlightenedstructure.org/Home/</a>}]
+### [Introduction][9]
 
-------------
+Enlightened Structure is a radically open toolkit for the collaboration singularity. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>
+[Read more][9]
+
+![][10]
+
+### [Free IP][11]
+
+This is virally licensed Free IP. You are free to copy, share, modify, and 
+remix this work, for free or for profit, on the condition that you attribute 
+this URL as a source, and share any copies and remixes under the same [Creative 
+Commons license][12].
+
+[Read more][11]
+
+![][13]
+
+### [For Developers][14]
+
+The Enlightened Structure technology stack is being implemented as a set of 
+HTTP APIs.
+
+[Read more][14]
+
+----
+
+This page was forked with permission from [http://enlightenedstructure.org/Home/][15]
+
+----
+
+[Creative Commons Attribution-ShareAlike License][16]
+
+[1]: http://enlightenedstructure.org/IMG/massively-parallel-academic-research-sys1-300x200-2.png
+[2]: http://enlightenedstructure.org/Software_Zero
+[3]: http://enlightenedstructure.org/IMG/the-trust-exchange.png
+[4]: http://enlightenedstructure.org/Trust_Exchange/
+[5]: http://enlightenedstructure.org/Trust_Exchange
+[6]: http://enlightenedstructure.org/IMG/buckyball-406x226.png
+[7]: http://enlightenedstructure.org/Core_Network
+[8]: http://enlightenedstructure.org/IMG/services.png
+[9]: http://enlightenedstructure.org/About
+[10]: http://enlightenedstructure.org/IMG/free-ip.png
+[11]: https://github.com/enlightenedstructure/Enlightened_Structure/blob/gh-pages/README.md
+[12]: http://creativecommons.org/licenses/by-sa/3.0/us/
+[13]: http://enlightenedstructure.org/IMG/we-are.png
+[14]: http://enlightenedstructure.org/API
+[15]: http://enlightenedstructure.org/Home/
+[16]: http://creativecommons.org/licenses/by-sa/3.0/
