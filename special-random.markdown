@@ -1,10 +1,4 @@
-[][1]
-
 # Orutu
-
-From Wikipedia, the free encyclopedia
-
-Jump to: [navigation][2], [search][3]
 
 The **orutu** is a one-stringed fiddle native to western Kenya, especially 
 amongst the [Luo][4] community.
