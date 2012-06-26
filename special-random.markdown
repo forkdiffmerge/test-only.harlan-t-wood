@@ -11,7 +11,7 @@ musical instrument.
 This musical instrument is played a bit like a violin but has a different, 
 more African sound to it. It is accompanied by drums and singing, but these 
 instruments are not very popular as most of Kenya is quite poor and not many 
-have the money to afford the lessons of music or even afford the instrument. 
+have the money to afford music lessons or even the instruments themselves. 
 There aren't many teachers of this instrument either.
 
 |[![Stub icon][7]][8]|
